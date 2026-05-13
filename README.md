@@ -1,7 +1,7 @@
 
-# 👋 Hi! I'm Andressa Corrêa
+# 👋 Olá, sou Andressa Corrêa
 
-**🎓 Ph.D. | Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 Interested in data-driven solutions, governance, and social impact*
+** Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 MBA em Ciência de Dados (cursando)*
 
 <p align="center">
   <img src="https://github.com/DressaLuc.png" width="180" style="border-radius: 50%;" />
@@ -11,24 +11,14 @@
 
 ---
 
-## 💫 About Me
-- 🔬 **Ph.D. in Physical Sciences (USP)** with a focus on high-level analytical research.
-- 🎓 **Data Science specialist** focused on transforming complex data into strategic insights.
-- 🤖 **AI Orchestrator:** Currently mastering Language Models, n8n, LangChain, and AI Agent Orchestration.
-- 💬 **Expertise:** Ask me about LGPD (Data Governance), process automation, and systematic literature reviews.
-- 🌱 **Social Impact:** Proud volunteer at *Girls in STEM* (Fatec Jahu).
-
-## 🚀 Expertise & Impact
-- 📊 **Advanced Data Analysis:** Proficiency in Python for cleaning, modeling, and storytelling.
-- 🏛️ **Governance & Compliance:** Deep studies in LGPD and ethical data management.
-- 🤖 **Predictive Systems:** Experience in Credit Risk Modeling and AI-driven Decision Support Systems.
-- ⚙️ **Workflow Automation:** Optimizing academic and business processes via AI and Power Automate.
-
 ## 💻 Tech Stack
-- **Data Science:** Python · Pandas · NumPy · scikit-learn · SQL · R · Azure
-- **AI & Automation:** n8n · LangChain · AI Agents · Power Automate
-- **Tools & Governance:** Git · GitHub · LGPD · Systematic Reviews
+- · SQL · Python · scikit-learn · SQL ·  Azure · LangChain · AI Agents
 
+⚙️ Experiência em Projetos Reais: Desenvolvi, em parceria, o projeto Radar Biomassa, focando na viabilidade econômica e logística através de modelagem preditiva e arquitetura de dados eficiente.
+
+💡 Visão Analítica: Especialista em traduzir problemas complexos de pesquisa em soluções automatizadas, utilizando Python, SQL e Cloud (GCP) para transformar dados brutos em ativos de decisão.
+
+💬 Pergunte-me sobre: Automação de workflows, SQL, Machine Learning, insights de negócios, projetos colaborativos. 
 ---
 
 📌 **Want to see my work?** Check out my **pinned repositories below** to explore projects in Data Science, Python, and Data Governance.
