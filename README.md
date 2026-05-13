@@ -12,13 +12,16 @@
 ---
 
 ## 💻 Tech Stack
-- · SQL · Python · scikit-learn · SQL ·  Azure · LangChain · AI Agents
+ · SQL · Python · scikit-learn · SQL ·  Azure · LangChain · AI Agents
 
 ⚙️ Experiência em Projetos Reais: Desenvolvi, em parceria, o projeto Radar Biomassa, focando na viabilidade econômica e logística através de modelagem preditiva e arquitetura de dados eficiente.
 
+
 💡 Visão Analítica: Especialista em traduzir problemas complexos de pesquisa em soluções automatizadas, utilizando Python, SQL e Cloud (GCP) para transformar dados brutos em ativos de decisão.
 
+
 💬 Pergunte-me sobre: Automação de workflows, SQL, Machine Learning, insights de negócios, projetos colaborativos. 
+
 ---
 
 📌 **Want to see my work?** Check out my **pinned repositories below** to explore projects in Data Science, Python, and Data Governance.
