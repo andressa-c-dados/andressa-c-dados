@@ -1,7 +1,7 @@
 
 # 👋 Olá, sou Andressa Corrêa
 
-** Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 MBA em Ciência de Dados - ICMC/USP (cursando)*
+**Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 MBA em Ciência de Dados - ICMC/USP (cursando)*
 
 <p align="center">
   <img src="https://github.com/DressaLuc.png" width="180" style="border-radius: 50%;" />
