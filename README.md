@@ -34,3 +34,4 @@
 📌 **Want to see my work?** Check out my **pinned repositories below** to explore projects in Data Science, Python, and Data Governance.
 
 
+![snake svg](https://raw.githubusercontent.com/andressa-c-dados/andressa-c-dados/output/github-contribution-grid-snake.svg)
