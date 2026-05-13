@@ -32,3 +32,47 @@
 ---
 
 📌 **Want to see my work?** Check out my **pinned repositories below** to explore projects in Data Science, Python, and Data Governance.
+
+
+name: generate animation
+
+on:
+  # executa automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # permite executar manualmente a qualquer momento
+  workflow_dispatch:
+  
+  # executa a cada push na branch main
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # gera o jogo da cobrinha a partir do seu gráfico de contribuições
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # envia o conteúdo gerado para a branch 'output'
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
