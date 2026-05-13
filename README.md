@@ -1,4 +1,7 @@
-![](1777832494406(1).jpg)
+<p align="center">
+  <img src="1777832494406 (1).jpg" width="100%" />
+</p>
+
 # 👋 Olá, sou Andressa Corrêa
 
 **Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 MBA em Ciência de Dados - ICMC/USP (cursando)*
