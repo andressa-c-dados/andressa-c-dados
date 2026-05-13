@@ -17,13 +17,14 @@
 ## 💻 Tech Stack
  ## SQL · Python · scikit-learn · Azure · LangChain · AI Agents ·  ETL/ELT Pipelines ·  Docker
 
+
+ 💬 **Pergunte-me sobre:** **Automação** de workflows, **SQL, Machine Learning, insights de negócios, projetos colaborativos.** 
+ 
+
 ⚙️ **Experiência em Projetos Reais:** Desenvolvi, em parceria, o projeto Radar Biomassa, focando na **viabilidade econômica e logística** através de **modelagem preditiva** e **arquitetura de dados eficiente.**
 
 
 💡 **Visão Analítica:** Especialista em traduzir problemas complexos de pesquisa em **soluções automatizadas**, utilizando **Python, SQL e Cloud (GCP)** para transformar dados brutos em ativos de decisão.
-
-
-💬 **Pergunte-me sobre:** **Automação** de workflows, **SQL, Machine Learning, insights de negócios, projetos colaborativos.** 
 
 ---
 
