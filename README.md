@@ -12,7 +12,7 @@
 ---
 
 ## 💻 Tech Stack
- ## SQL · Python · scikit-learn · SQL ·  Azure · LangChain · AI Agents
+ ## SQL · Python · scikit-learn · Azure · LangChain · AI Agents ·  ETL/ELT Pipelines ·  Docker
 
 ⚙️ **Experiência em Projetos Reais:** Desenvolvi, em parceria, o projeto Radar Biomassa, focando na **viabilidade econômica e logística** através de **modelagem preditiva** e **arquitetura de dados eficiente.**
 
