@@ -1,4 +1,4 @@
-![](1777832494406 (1).jpg)
+![](1777832494406(1).jpg)
 # 👋 Olá, sou Andressa Corrêa
 
 **Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 MBA em Ciência de Dados - ICMC/USP (cursando)*
