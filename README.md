@@ -6,9 +6,6 @@
 
 **Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 MBA em Ciência de Dados - ICMC/USP (cursando)*
 
-<p align="center">
-  <img src="https://github.com/DressaLuc.png" width="180" style="border-radius: 50%;" />
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-correa-dados)
 
