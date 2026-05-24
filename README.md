@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1777832494406 (1).jpg" width="100%" />
+  <img src="1584707764753.jpg" width="100%" />
 </p>
 
 # 👋 Olá, sou Andressa Corrêa
